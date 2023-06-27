@@ -1,6 +1,6 @@
 {
   "name": "find-cat",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A cypress custom command to get uncertain element",
   "main": "index.js",
   "scripts": {

@@ -15,12 +15,12 @@ import findcat from 'find-cat'
 ### Create cat jump funcion
 ```js
 # Original function is as follows:
-const catJump = () => {
+const catJumps = () => {
     cy.log('Cat is alive, and jumps for no reason')
     console.log('Cat is alive, and jumps for no reason')
 }
 ```
 ### Add it in general cy file
 ```js
-cy.get('.header').findcat('button', catJump)
+cy.get('.header').findcat('button', catJumps)
 ```
