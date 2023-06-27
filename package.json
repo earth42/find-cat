@@ -7,5 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "eleve.shi",
-  "license": "MIT"
+  "license": "Apache License 2.0"
 }
