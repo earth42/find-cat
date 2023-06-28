@@ -18,6 +18,7 @@ import findcat from 'find-cat'
 const catJumps = () => {
     cy.log('Cat is alive, and jumps for no reason')
     console.log('Cat is alive, and jumps for no reason')
+    cy.exec("echo 'Cat is alive, and jumps for no reason'")
 }
 ```
 ### Add it in general cy file
